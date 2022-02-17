@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electric Cars, Solar & Clean Energy</title>
+    <link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="./tailwind.css">
+</head>
+
+<body>
+    <header class="navbar">
+<img src="./images/tesla.svg" alt="tesla logo" class="h-6">
+<div>
+    <a href="#modelS" class="nav_link">Model S</a>
+    <a href="#modelS" class="nav_link">Model 3</a>
+    <a href="#modelS" class="nav_link">Model X</a>
+    <a href="#modelS" class="nav_link">Model Y</a>
+    <a href="#solarRoof" class="nav_link">Solar Roof</a>
+    <a href="#solarPanels" class="nav_link">Solar Panels</a>
+</div>
+<div>
+    <a href="#shop" class="nav_link">Shop</a>
+    <a href="#account" class="nav_link">Account</a>
+    <a href="#menu" class="nav_link">Menu</a>
+</div>
+    </header>
+
+    <section id="modelS" class="car_section">
+        <img src="./images/ModelS.jfif" alt="Model S Image" class="car_img">
+
+    </section>
+</body>
+</html>
